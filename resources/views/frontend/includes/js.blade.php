@@ -74,7 +74,7 @@
         var yearRange = startYear === currentYear ? startYear : startYear + '-' + currentYear;
 
         var copyrightElement = document.getElementById("copyright");
-        copyrightElement.innerHTML = 'Copyright © ' + yearRange + ' unicodeconverter.info. All rights reserved.<br>E-mail: info@unicodeconverter.info Developed by:-<a  href="https://iglweb.com/web/">&thinsp;IGL WEB Ltd.';
+        copyrightElement.innerHTML = 'Copyright © ' + yearRange + ' unicodeconverter.info. All rights reserved.<br>E-mail:arifsohag2500@gmail.com.info Developed by:-<a  href="https://www.facebook.com/iamarifhossen/">&thinsp;MD ARIF SOHAG.';
     });
 
     document.addEventListener("DOMContentLoaded", function () {
